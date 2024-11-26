@@ -80,22 +80,25 @@ content:
         sub_title: Backend Developer
         caption: May 2024 - present
         link: https://edgebricks.com/
-        quote: >
+        description: | # this will include new lines to allow paragraphs
           Building intelligent chatbots: Train on your data, choose your
           engine (OpenAI, Claude, Voyage AI, Hugging Face, Llama).
+#        quote: >
+#          Building intelligent chatbots: Train on your data, choose your
+#          engine (OpenAI, Claude, Voyage AI, Hugging Face, Llama).
       - layout: right
         title: Plutonic Services Pvt. Ltd.
         sub_title: Full Stack Developer
         caption: June 2022 - May 2024
         link: https://www.plutonic.co.in/
-        quote: >
-         Led backend development & DevOps: Designed, coded, and deployed APIs/microservices
+        description: | # this will include new lines to allow paragraphs
+          Led backend development & DevOps: Designed, coded, and deployed APIs/microservices
       - layout: right
         title: Plutonic Services Pvt. Ltd.
         sub_title: Full Stack Developer - Intern
         caption: Aug 2021 - May 2022
         link: https://www.plutonic.co.in/
-        quote: >
+        description: | # this will include new lines to allow paragraphs
           Supported full-stack development: Gathered requirements, assisted with system design,
           and implemented backend functionalities.
   - title: Education
