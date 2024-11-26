@@ -76,14 +76,28 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Edgebricks Inc
+        sub_title: Backend Developer
+        caption: May 2024 - present
+        link: https://edgebricks.com/
         quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+          Building intelligent chatbots: Train on your data, choose your
+          engine (OpenAI, Claude, Voyage AI, Hugging Face, Llama).
+      - layout: right
+        title: Plutonic Services Pvt. Ltd.
+        sub_title: Full Stack Developer
+        caption: June 2022 - May 2024
+        link: https://www.plutonic.co.in/
+        quote: >
+         Led backend development & DevOps: Designed, coded, and deployed APIs/microservices
+      - layout: right
+        title: Plutonic Services Pvt. Ltd.
+        sub_title: Full Stack Developer - Intern
+        caption: Aug 2021 - May 2022
+        link: https://www.plutonic.co.in/
+        quote: >
+          Supported full-stack development: Gathered requirements, assisted with system design,
+          and implemented backend functionalities.
   - title: Education
     layout: list
     content:
@@ -91,10 +105,11 @@ content:
         title: Marian College Kuttikkanam(Autonomous)
         sub_title: Master of Computer Applications(MCA)
         caption: 2020 - 2022
-#        quote: >
-#          Short institution or course description (optional)
-#        description: | # this will include new lines to allow paragraphs
-#          Description of qualification
+      - layout: top-right
+        title: St. Joseph’s College Moolamattom
+        sub_title: Bachelor of Computer Applications(BCA)
+        caption: 2017 - 2020
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
