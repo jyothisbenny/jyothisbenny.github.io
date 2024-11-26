@@ -6,11 +6,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Jyothis Benny
-title: Backend Developer
-email: jyothisbenny75@gmail.com
+name: Your Name
+title: Your job title
+email: Your email (optional)
 # email_title: Email (Email title override)
-phone: +91 8606390091
+phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -19,10 +19,25 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: false
 
 # Social links
-github_username:  jyothisbenny
-linkedin_username: jyothis-benny
+twitter_username: jekyllrb
+github_username:  jekyll
+stackoverflow_username: "00000001"
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+xing_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+orcid_username: 0000-0000-0000-0000
+googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
+additional_links:
+- title: Link name
+  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -35,15 +50,15 @@ linkedin_username: jyothis-benny
 
 # About Section
 # about_title: About Me (Use this to override about section title)
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Software engineer with 3.4 years of experience in backend development and DevOps. Passionate about solving challenging problems
-   and eager to work on impactful projects.
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  Experienced backend developer with a strong DevOps background. Successfully led multiple projects from scratch,
-   utilizing AWS services (S3, SES, EC2, IAM), Docker, Nginx, Uwsgi and qb. Intermediate knowledge of React with Ant
-    Design, completing two projects. Freelancer with IoT project experience. I also have a good amount of experience
-     working with ERP solutions, understanding the intricacies of these essential business tools. Passionate about
-      staying current with industry trends and delivering high-quality work.
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
