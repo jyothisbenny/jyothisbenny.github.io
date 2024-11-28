@@ -74,8 +74,10 @@ content:
           efficiently with your own data.
 
       - title: Automating CA Practices
-        link: Try it here.
-        link_text: https://demo.caclouddesk.com/
+        additional_links:
+            - title:  Try it here.
+              icon: fa-browser
+              url: https://demo.caclouddesk.com/
         description: |
           **Automating CA Practices** — Nov 2022 - 2024  
           Led backend development on a software suite for Chartered Accountants. The solution
