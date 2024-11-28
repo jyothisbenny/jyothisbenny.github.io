@@ -68,23 +68,36 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
       - title: Private Data Chatbots
-        quote: >
-          Working on building, testing, and deploying Gen AI chatbots securely and efficiently using your own data.
         description: |
           **Private Data Chatbots** — 2024 - Ongoing  
           Developing a full chatbot lifecycle: build, test, and deploy Gen AI chatbots securely and
-          efficiently with your own data in hours.
+          efficiently with your own data.
 
       - title: Automating CA Practices
-        quote: >
-          Led the backend development of a software suite for Chartered Accountants, tackling legal and
-          accounting needs.
+        link: Try it here.
+        link_text: https://demo.caclouddesk.com/
         description: |
           **Automating CA Practices** — Nov 2022 - 2024  
           Led backend development on a software suite for Chartered Accountants. The solution
           automates legal and accounting tasks through features like document management, automated
           workflows, and a collaborative platform. It streamlines CA practice management and
           fosters a connected community.
+
+      - title: ERP System For A Construction-Based Company
+        description: |
+          **ERP System For A Construction-Based Company** — 2021 - 2024  
+          As a core member and backend lead, I developed integrated modules for Payroll, Project
+          Management, Vendor Management, Travel Management, and Inventory Management during the
+          implementation of the ERP system. My work on the backend infrastructure and team 
+          collaboration significantly boosted the company’s productivity.
+
+      - title: BidCliq Ad Management System
+        description: |
+          **BidCliq: Ad Management System** — Sep 2023 - 2024  
+          Developed and managed the creation of "BidCliq," a revenue-management tool that integrates
+          Google Ad Manager, Adsterra, and Bidder Settings to simplify website monetization. This tool
+          helps website owners maximize ad revenue by integrating multiple ad managers and reaching
+          a wider audience of bidders.
 
   #        title: Project name
 #        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
