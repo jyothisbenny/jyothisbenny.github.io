@@ -45,11 +45,20 @@ about_content: | # this will include new lines to allow paragraphs
   Software engineer with 3.4 years of experience in backend development and DevOps. 
   Passionate about solving challenging problems and eager to work on impactful projects..
 
-  Experienced backend developer with a strong DevOps background. Successfully led multiple projects from scratch, 
-  utilizing AWS services (S3, SES, EC2, IAM), Docker, Nginx, Uwsgi and qb. Intermediate knowledge of React 
-  with Ant Design, completing two projects. Freelancer with IoT project experience. I also have a good amount 
-  of experience working with ERP solutions, understanding the intricacies of these essential business tools. 
-  Passionate about staying current with industry trends and delivering high-quality work.
+  For the past year, I have been focused on building intelligent, scalable chatbots that can
+  be trained on custom data and integrated with leading LLM engines like OpenAI, Claude, Hugging Face,
+  and Llama. Leveraging frameworks like FastAPI and Flask, along with robust databases such as MySQL
+  and Redis, I have developed highly scalable and high-performance systems.
+
+  Throughout my career, I have successfully led multiple projects from the ground up,
+  utilizing AWS services (S3, SES, EC2, IAM), Docker, Nginx, uWSGI, and qb. My expertise extends
+  to IoT solutions and ERP systems, where I’ve gained a strong understanding of these essential
+  business tools. Additionally, I have intermediate proficiency in React with Ant Design, completing
+  two projects in this space.
+
+  As a freelancer, I have worked on diverse projects, blending technical expertise with creativity
+  to deliver tailored solutions. I am passionate about solving complex problems, staying updated
+  with industry trends, and delivering high-quality, maintainable solutions that drive results.
 
 content:
   - title: Projects # Title for the section
@@ -81,8 +90,16 @@ content:
         caption: May 2024 - present
         link: https://edgebricks.com/
         description: | # this will include new lines to allow paragraphs
-          Building intelligent chatbots: Train on your data, choose your
-          engine (OpenAI, Claude, Voyage AI, Hugging Face, Llama).
+          Developed a secure, scalable platform for building, testing, and deploying chatbots using private data,
+          ensuring full control and data privacy by operating entirely within the company’s infrastructure and firewall.
+          
+          Integrated multiple large language models (LLMs) to offer flexibility and improved chatbot performance,
+          while eliminating the need for third-party SaaS solutions, allowing businesses to customize and manage
+          their AI-driven interactions.
+          
+          Focused on compliance with security standards and seamless integration with enterprise systems,
+          empowering businesses to deploy AI chatbots safely and efficiently while enhancing customer engagement.
+
 #        quote: >
 #          Building intelligent chatbots: Train on your data, choose your
 #          engine (OpenAI, Claude, Voyage AI, Hugging Face, Llama).
