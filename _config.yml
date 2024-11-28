@@ -178,10 +178,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+      I’m someone who loves to learn new things and always gives my best effort. I work hard to get
+      things done and try to finish my to-do list every day. While I can be a bit lazy sometimes,
+      I do my best to make each day productive and keep moving forward.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
