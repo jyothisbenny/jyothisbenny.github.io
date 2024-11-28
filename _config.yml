@@ -74,6 +74,8 @@ content:
           efficiently with your own data.
 
       - title: Automating CA Practices
+        link: https://demo.caclouddesk.com/
+        link_text: Try it here.
         additional_links:
             - title:  Try it here.
               icon: fab fa-google
