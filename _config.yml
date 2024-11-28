@@ -67,18 +67,24 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Private Data Chatbots
-        link: Link to project (optional)
-        link_text: Link Text
-        additional_links:
-          - title: Github page for project
-            icon: fab fa-github
-            url: Link to project (optional)
+      - title: Private Data Chatbots
         quote: >
-          Working on building, testing, and deploying Gen AI chatbots securely and efficiently using your own data in hours.
+          Working on building, testing, and deploying Gen AI chatbots securely and efficiently using your own data.
         description: |
           **Private Data Chatbots** — 2024 - Ongoing  
-          Developing a full chatbot lifecycle: build, test, and deploy Gen AI chatbots securely and efficiently with your own data in hours.
+          Developing a full chatbot lifecycle: build, test, and deploy Gen AI chatbots securely and
+          efficiently with your own data in hours.
+
+      - title: Automating CA Practices
+        quote: >
+          Led the backend development of a software suite for Chartered Accountants, tackling legal and
+          accounting needs.
+        description: |
+          **Automating CA Practices** — Nov 2022 - 2024  
+          Led backend development on a software suite for Chartered Accountants. The solution
+          automates legal and accounting tasks through features like document management, automated
+          workflows, and a collaborative platform. It streamlines CA practice management and
+          fosters a connected community.
 
   #        title: Project name
 #        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
