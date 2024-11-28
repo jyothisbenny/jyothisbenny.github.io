@@ -109,14 +109,25 @@ content:
         caption: June 2022 - May 2024
         link: https://www.plutonic.co.in/
         description: | # this will include new lines to allow paragraphs
-          Led backend development & DevOps: Designed, coded, and deployed APIs/microservices
+          Led backend development and DevOps: Designed, developed, and deployed APIs and microservices.
+          
+          Took charge of full-stack execution: Collected requirements, designed system architecture,
+          and maintained code quality through reviews.
+          
+          Delivered scalable solutions: Built strong backend systems using Django REST, Celery,
+          Redis, PostgreSQL, Swagger, and DevOps practices to ensure smooth and efficient operations.
       - layout: right
         title: Plutonic Services Pvt. Ltd.
         sub_title: Full Stack Developer - Intern
         caption: Aug 2021 - May 2022
         link: https://www.plutonic.co.in/
         description: | # this will include new lines to allow paragraphs
-          Supported full-stack development: Gathered requirements, assisted with system design,
+          Contributed to backend development: Designed, developed, and tested backend components for
+          internal projects.
+          
+          Worked closely with senior developers to maintain code quality and meet deadlines.
+          
+          Supported full-stack development: Collected requirements, helped with system design,
           and implemented backend functionalities.
   - title: Education
     layout: list
