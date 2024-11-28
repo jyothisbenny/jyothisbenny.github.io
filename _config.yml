@@ -76,7 +76,7 @@ content:
       - title: Automating CA Practices
         additional_links:
             - title:  Try it here.
-              icon: fa-browser
+              icon: fab fa-google
               url: https://demo.caclouddesk.com/
         description: |
           **Automating CA Practices** — Nov 2022 - 2024  
